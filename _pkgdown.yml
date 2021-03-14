@@ -1,0 +1,18 @@
+url: https://MahShaaban.github.io/segmentrShop
+
+template:
+  params:
+    bootswatch: flatly
+    ganalytics: UA-93043521-1
+
+home:
+  title: "segmentrShop"
+  type: inverse
+
+
+navbar:
+  right:
+   - icon: fa-github
+     href: https://github.com/MahShaaban/segmentrShop
+     
+

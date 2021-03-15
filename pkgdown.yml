@@ -1,0 +1,10 @@
+pandoc: 2.11.4
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  syllabus: syllabus.html
+last_built: 2021-03-15T01:18Z
+urls:
+  reference: https://MahShaaban.github.io/segmentrShop/reference
+  article: https://MahShaaban.github.io/segmentrShop/articles
+
